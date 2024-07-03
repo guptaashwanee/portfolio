@@ -10,7 +10,7 @@ export const DATA = {
     "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
   summary:
     "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
-  avatarUrl: "/me.png",
+  avatarUrl: "/guptaashwanee.jpeg",
   skills: [
     "React",
     "Next.js",
@@ -25,24 +25,24 @@ export const DATA = {
     "C++",
   ],
   contact: {
-    email: "hello@example.com",
-    tel: "+123456789",
+    email: "ashwanee.dev@gmail.com",
+    tel: "+918827920790",
     social: {
       GitHub: {
-        url: "https://github.com/dillionverma",
+        url: "https://github.com/guptaashwanee",
         icon: Icons.github,
       },
       LinkedIn: {
-        url: "https://www.linkedin.com/in/dillionverma/",
+        url: "https://www.linkedin.com/in/guptaashwanee/",
         icon: Icons.linkedin,
       },
       X: {
-        url: "https://x.com/dillionverma",
+        url: "https://x.com/guptaashwanee",
         icon: Icons.x,
       },
-      Youtube: {
-        url: "https://youtube.com/c/dillionverma",
-        icon: Icons.youtube,
+      Instagram: {
+        url: "https://instagram.com/c/guptaashwanee",
+        icon: Icons.instagram,
       },
     },
   },
