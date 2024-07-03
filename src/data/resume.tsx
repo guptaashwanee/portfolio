@@ -1,11 +1,11 @@
 import { Icons } from "@/components/icons";
 
 export const DATA = {
-  name: "Dillion Verma",
+  name: "Ashwanee Kumar Gupta",
   initials: "DV",
-  url: "https://dillion.io",
-  location: "San Francisco, CA",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  url: "https://guptaashwanee.io",
+  location: "Bengaluru, Karnataka",
+  locationLink: "https://www.google.com/maps/place/Bengaluru",
   description:
     "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
   summary:
