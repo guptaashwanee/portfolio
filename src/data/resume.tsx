@@ -3,7 +3,7 @@ import { Icons } from "@/components/icons";
 export const DATA = {
   name: "Ashwanee Kumar Gupta",
   initials: "DV",
-  url: "https://guptaashwanee.io",
+  url: "https://guptaashwanee.me",
   location: "Bengaluru, Karnataka",
   locationLink: "https://www.google.com/maps/place/Bengaluru",
   description:
